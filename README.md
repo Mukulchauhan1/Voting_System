@@ -13,7 +13,7 @@ By developing the "Secure Online Voting System," we aim to enhance the efficienc
 
 
 ## How to use the project ?
-- Download the Project from here : [Download](https://drive.google.com/file/d/1bnqoZfKnGSKKYWdmmRNZn2Zc0r6Uo2N3/view?usp=sharing)
+- Download the Project from here : [Download]([https://drive.google.com/file/d/1bnqoZfKnGSKKYWdmmRNZn2Zc0r6Uo2N3/view?usp=sharing](https://drive.google.com/file/d/1PfvZc8QtGyV5OeUQCFW0fsEIOkHHWB-1/view?usp=drive_link))
 
 - Extract the folder
 
