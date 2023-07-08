@@ -10,23 +10,6 @@ Key Features :
 
 By developing the "Secure Online Voting System," we aim to enhance the efficiency, convenience, and security of the voting process, thereby encouraging broader participation and fostering trust in democratic practices.
 <br>
-## CODE SCREENSHOTS
-
-1) Main Logic code: 
-
-![App Screenshot](images/main.png)
-
-2) Database:
-
-![App Screenshot](images/database.png)
-
-3) Candidate
-
-![App Screenshot](images/candidate.png)
-
-4) Voter
-
-![App Screenshot](images/voter.png)
 
 
 ## How to use the project ?
@@ -34,71 +17,63 @@ By developing the "Secure Online Voting System," we aim to enhance the efficienc
 
 - Extract the folder
 
-- Open the **'inputData.txt'** file and write number of candidate and number of voter respectively after a space b/w them **(See below)**.
-![App Screenshot](CodeWorking/inputdata.png)
+- Open the **'inputData.txt'** file and write number of candidate and number of voter respectively after a space b/w them 
 
-- Same do for **'VoterID.txt'** but here put the **voter id** of the voters. Note : Put each VoterID in new line **(See below)**.
-![App Screenshot](CodeWorking/voterid.png)
+- Same do for **'VoterID.txt'** but here put the **voter id** of the voters. Note : Put each VoterID in new line 
 
 - Now run the code present in **'main.cpp'** file
 
 - **Welcome Screen will appear**
-![App Screenshot](CodeWorking/1.png)
 
 - Candidate detail's will be taken before starting voting. **Screen will be cleared after a candidate fill his details**
 ```
 Candidate 1 : Entering his details
 ```
-![App Screenshot](CodeWorking/2.png)
+
 ```
 Candidate 2 : Entering his details
 ```
-![App Screenshot](CodeWorking/3.png)
+
 ```
 Candidate 3 : Entering his details
 ```
-![App Screenshot](CodeWorking/4.png)
 
 - Now we should ask for detail of voter before he can cast the vote. **Screen will be cleared after voter cast the vote**
 ```
 Voter 1 casting the vote
 ```
-![App Screenshot](CodeWorking/5.png)
+
 ```
 Voter 2 casting the vote
 ```
-![App Screenshot](CodeWorking/6.png)
+
 ```
 Voter 3 casting the vote
 ```
-![App Screenshot](CodeWorking/7.png)
+
 ```
 Voter 4 casting the vote
 ```
-![App Screenshot](CodeWorking/8.png)
+
 ```
 Voter 5 casting the vote
 ```
-![App Screenshot](CodeWorking/9.png)
+
 ```
 Voter 6 casting the vote
 ```
-![App Screenshot](CodeWorking/10.png)
 
-- **Voting Results**
-![App Screenshot](CodeWorking/11.png)
 
 - All the voting data can be accessed using the files below
 
 ```
 'voterData.txt' file store the data of voter who casted the vote successfully.
 ```
-![App Screenshot](CodeWorking/12.png)
+
 
 ```
 'votingData.txt' file store the data of voting id of candidate who successfully casted the vote.
 ```
-![App Screenshot](CodeWorking/13.png)
 
 
 
